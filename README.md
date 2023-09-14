@@ -1,8 +1,6 @@
+<p align="center"> <img src="https://media.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="900" height="70"/> </a></p>
 <h1 align="center">Hi 👋, I'm İbrahim Enes DEDEOĞLU</h1>
 <h3 align="center">A passionate BackEnd developer from TURKEY</h3>
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
