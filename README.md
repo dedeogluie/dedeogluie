@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="900" height="70"/> </a></p>
+<p align="center"> <img src="https://64.media.tumblr.com/702e4020fa7aa7ac293eb8ccff97be62/0ab40138a8229902-fd/s400x600/a4d2579cce2fa365ece3b68e6eac06bd689e4c32.gifv"/> </a></p>
 <p align="center"> <img src="https://64.media.tumblr.com/dbb9ff4f74bd02dc43cdbb7f64c0b190/100b132abcd14d29-71/s400x600/c233ff5d751ad64a515b41a2cda829c1fe0ee8b5.gifv" width="500" height="300"/> </a></p>
 
 <h1 align="center">Hi 👋, I'm İbrahim Enes DEDEOĞLU</h1>
